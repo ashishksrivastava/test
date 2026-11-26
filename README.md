@@ -1,1 +1,1 @@
-This is a test repo for understanding GitHub.
+# This is a test repo for understanding GitHub.
